@@ -1,0 +1,12 @@
+Flask
+Flask-SocketIO
+eventlet
+requests
+pandas
+numpy
+scikit-learn
+statsmodels
+fbprophet
+transformers
+celery
+redis
